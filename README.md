@@ -1,10 +1,10 @@
 # 🧠 AM II: AI Study Assistant & Second Brain
 
-![Course](https://img.shields.io/badge/Course-Applied%20Mathematics%20II-blue)
+![Course](https://img.shields.io/badge/Course-Analytical%20Mechanics%20II-blue)
 ![Semester](https://img.shields.io/badge/Semester-Spring%202026-brightgreen)
 ![Professor](https://img.shields.io/badge/Professor-Ali%20Akbar%20Abolhasani-orange)
 
-Welcome to the ultimate **AI-powered Study Assistant** for the **Applied Mathematics II (AM II)** midterm exam! This repository is configured to act as a "Second Brain," helping students master concepts, tackle complex problems, and secure maximum marks.
+Welcome to the ultimate **AI-powered Study Assistant** for the **Analytical Mechanics II (AM II)** midterm exam! This repository is configured to act as a "Second Brain," helping students master concepts, tackle complex problems, and secure maximum marks.
 
 ## 🎯 Project Overview
 

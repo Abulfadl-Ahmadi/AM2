@@ -4,7 +4,7 @@ description: Solves AM II exam problems with full step-by-step mathematical reas
 
 # Exam Problem Solver Workflow
 
-Use this workflow to solve problems and answer questions related to the "AM II" (Applied Mathematics II) midterm exam.
+Use this workflow to solve problems and answer questions related to the "AM II" (Analytical Mechanics II) midterm exam.
 
 ## Step 1: Analyze the Problem
 1. Read the user's question or problem description carefully.
