@@ -1,39 +1,84 @@
-# 🧠 AM II: AI Study Assistant & Second Brain
+---
+title: AM II Second Brain
+aliases:
+  - README
+  - Home
+tags:
+  - root
+  - moc
+cssclasses:
+  - moc
+---
+
+# 🧠 AM II: AI Second Brain -- Analytical Mechanics II
 
 ![Course](https://img.shields.io/badge/Course-Analytical%20Mechanics%20II-blue)
 ![Semester](https://img.shields.io/badge/Semester-Spring%202026-brightgreen)
-![Professor](https://img.shields.io/badge/Professor-Ali%20Akbar%20Abolhasani-orange)
+![Professor](https://img.shields.io/badge/Professor-Abolhasani-orange)
+![Vault](https://img.shields.io/badge/Type-Obsidian%20Vault-purple)
 
-Welcome to the ultimate **AI-powered Study Assistant** for the **Analytical Mechanics II (AM II)** midterm exam! This repository is configured to act as a "Second Brain," helping students master concepts, tackle complex problems, and secure maximum marks.
-
-## 🎯 Project Overview
-
-This repository configures an AI agent to act as an expert academic tutor specifically tailored for our AM II course. Instead of giving generic internet answers, the AI is constrained by strict guidelines (found in `AGENTS.md`) and a custom `exam-solver` workflow to ensure its output is perfectly aligned with the class material.
-
-### ✨ Key Features
-
-- **📚 Source Prioritization:** The AI exclusively prioritizes our specific course materials. It searches through the `lecture_notes/` and `textbook/` directories before answering any question.
-- **🕵️ Trap & Trick Detection:** The AI is trained to actively look for edge cases, subtleties, and "tricks" in exam questions that might mislead students.
-- **💯 Exam-Quality Solutions:** Every generated answer is formulated as a step-by-step, comprehensive solution aimed at earning a 100% score on the midterm.
-- **🔄 Professor vs. Textbook:** Where applicable, the AI compares Prof. Abolhasani's specific methods with the standard textbook approaches.
-
-## 📂 Repository Structure
-
-- `AGENTS.md`: The core rulebook containing the strict instructions for the AI behavior.
-- `.agents/workflows/exam-solver.md`: The step-by-step workflow the AI follows to solve exam problems flawlessly.
-- `lecture_notes/`: Directory for Prof. Abolhasani's class notes and slides. *(Place the PDFs/images here)*
-- `textbook/`: Directory for the course reference book. *(Place the textbook PDF here)*
-
-## 🚀 How to Use (For Classmates)
-
-1. **Clone the Repository:** Download or clone this repository to your local machine.
-2. **Add Materials:** Ensure you populate the `lecture_notes/` and `textbook/` folders with the relevant course files.
-3. **Use an AI IDE / Agent:** Open this workspace in an Agentic AI IDE (like the one you are currently using) that supports workspace context and custom `.agents` instructions.
-4. **Ask Away:** Start asking midterm practice questions! You can invoke the `exam-solver` workflow to get step-by-step analytical solutions based exactly on what we learned this semester.
-
-## 🤝 Contribution
-
-Feel free to fork this repository, add more summarized notes, or tweak the AI instructions (`AGENTS.md`) if you find a better prompt format. Let's ace this midterm together! 🚀
+> [!tip] Start Here
+> 👉 **Open [[Brain-Map]] for the full knowledge graph navigation.**
+>
+> This vault is an interconnected **Living AI Second Brain** for the AM II final exam. Every note is cross-linked using Obsidian wikilinks. Open it in [Obsidian](https://obsidian.md) and use **Graph View** to visualize the network.
 
 ---
-*Created for the students of the Spring 2026 AM II class.*
+
+## 🎯 What Is This?
+
+An AI-powered study assistant for **Analytical Mechanics II (Spring 2026)**, taught by [[Prof. Ali Akbar Abolhasani]]. The AI agent is constrained by [[AGENTS.md|strict rules]] to deliver exam-quality answers based **only** on the course materials in this vault.
+
+### ✨ Key Features
+- **📚 Source Prioritization:** Answers come from `lecture_notes/` and `textbook/` only
+- **🕵️ Trap Detection:** The AI actively flags exam tricks and edge cases
+- **💯 Exam-Quality Solutions:** Step-by-step, 100%-score answers in academic Persian
+- **🔄 Professor vs. Textbook:** Cross-references both sources where applicable
+
+---
+
+## 🗂️ Vault Architecture
+
+| Directory | Purpose |
+|-----------|---------|
+| **`Brain-Map.md`** | 🗺️ The master knowledge graph -- your navigation hub |
+| **`Wiki/`** | 📖 Synthesis notes: chapter hubs, methods, people, QA |
+| **`Journal/`** | 📅 Lecture index & study progress tracker |
+| **`lecture_notes/`** | 📝 23 transcribed lecture notes (Apr 4 - Jun 29, 2026) |
+| **`textbook/`** | 📕 Textbook chapters 8-9 with elaborations |
+| **`AGENTS.md`** | 🤖 The AI agent's operational rulebook |
+
+---
+
+## 🔑 Quick Links
+
+### 📖 Chapter Hubs
+- [[Chapter 8 - Central-Force Motion]]
+- [[Chapter 9 - Dynamics of a System of Particles]]
+- [[Chapter 10 - Non-Inertial Reference Frames]]
+- [[Chapter 11 - Dynamics of Rigid Bodies]]
+- [[Chapter 12 - Coupled Oscillations and Normal Modes]]
+
+### 🔧 Key Methods
+- [[Lagrangian Mechanics]] -- The unifying framework
+- [[Eigenvalue Problem for Normal Modes]] -- The Ch. 12 algorithm
+- [[Reduced Mass Method]] -- Two-body reduction
+- [[Exam-Solver Workflow]] -- The problem-solving protocol
+
+### 📊 Tracking
+- [[Journal/Lecture Index|📅 Lecture Index]] -- All 23 lectures
+- [[Journal/Study Progress|📊 Study Tracker]] -- Mark your progress
+- [[Wiki/reconciliation-log|⚠️ Reconciliation Log]] -- Known gaps & issues
+
+---
+
+## 🚀 How to Use
+
+1. **Open in Obsidian:** Add this folder as a vault in [Obsidian](https://obsidian.md)
+2. **Start from [[Brain-Map]]:** It's the master table of contents
+3. **Use Graph View:** Press `Ctrl+G` to see the knowledge network
+4. **Follow the links:** Every note connects to related concepts via `[[wikilinks]]`
+5. **Ask the AI:** Use an agentic IDE with [[AGENTS.md]] context to get exam help
+
+---
+
+*Created for the students of Spring 2026 AM II -- Sharif University of Technology*
