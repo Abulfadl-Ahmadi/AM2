@@ -4,7 +4,7 @@ description: Solves AM II exam problems with full step-by-step mathematical reas
 
 # Exam Problem Solver Workflow
 
-Use this workflow to solve problems and answer questions related to the "AM II" (Analytical Mechanics II) midterm exam.
+Use this workflow to solve problems and answer questions related to the "AM II" (Analytical Mechanics II) final exam.
 
 ## Step 1: Analyze the Problem
 1. Read the user's question or problem description carefully.
@@ -21,7 +21,7 @@ Write your response following these exam-quality guidelines:
 1. **Exam-Quality Standard:** Aim for full marks (100%). Be highly accurate, fully detailed, well-structured, and comprehensive. No brief or superficial answers.
 2. **Step-by-Step Analysis:** Explain every step transparently and logically. Clearly state the formulas, theorems, and assumptions being used.
 3. **Integrating Sources:** Explicitly mention how the professor's approach (from `lecture_notes`) compares or combines with the explanations in the `textbook` when applicable.
-4. **Formatting & Language:** Use clear, academic English and proper mathematical/engineering terminology. Use markdown math rendering where appropriate.
+4. **Formatting & Language:** Use clear, academic Persian and proper mathematical/engineering terminology. Use markdown math rendering where appropriate.
 
 ## Step 4: Final Review
 1. Review your drafted solution against the original question. Did you miss any points?
