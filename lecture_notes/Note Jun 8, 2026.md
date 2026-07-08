@@ -1,5 +1,10 @@
 # Advanced Analytical Dynamics: Generalized Small Oscillations & Orthogonality
 
+> [!abstract] Navigation
+> **Chapter:** [[Chapter 12 - Coupled Oscillations and Normal Modes]] | **Prev:** [[Note Jun 6, 2026]] | **Next:** [[Note Jun 13, 2026]] | [[Journal/Lecture Index|📚 All Lectures]]
+>
+> **Key concept:** [[Eigenvalue Problem for Normal Modes|Orthogonality of normal modes]]
+
 > **Context:** In previous lectures, we solved the two-mass, three-spring system using Newton's laws. Now, we are abstracting this into a **Generalized Lagrangian Theory** that works for *any* vibrating system (molecules, pendulums, rotating shafts, etc.) by using matrices. We will also prove the critical property of **Mode Orthogonality**.
 
 ---

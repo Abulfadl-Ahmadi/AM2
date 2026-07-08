@@ -1,5 +1,8 @@
 # Chapter 9: Dynamics of a System of Particles (Continued) - Lecture: Apr 20, 2026
 
+> [!abstract] Navigation
+> **Chapter:** [[Chapter 9 - Dynamics of a System of Particles]] | **Prev:** [[Note Apr 18, 2026]] | **Next:** [[Note Apr 25, 2026]] | [[Journal/Lecture Index|📚 All Lectures]]
+
 ## 1. Prologue: Geopolitical Dynamics Analogy (پیش از دستور: تحلیل ژئوپلیتیک)
 
 **Original Notes Transcription:**

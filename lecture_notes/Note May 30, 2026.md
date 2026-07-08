@@ -1,5 +1,8 @@
 # Chapter 11: Dynamics of Rigid Bodies (Continued) - Lecture: May 30, 2026
 
+> [!abstract] Navigation
+> **Chapter:** [[Chapter 11 - Dynamics of Rigid Bodies]] | **Prev:** [[Note May 25, 2026]] | **Next:** [[Note Jun 1, 2026]] | [[Journal/Lecture Index|📚 All Lectures]]
+
 ## 1. Free Symmetric Top - Continued (فرفره متقارن آزاد - ادامه)
 
 **Original Notes Transcription:**

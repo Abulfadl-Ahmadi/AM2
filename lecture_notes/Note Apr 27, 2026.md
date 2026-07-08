@@ -1,4 +1,9 @@
-Here is a comprehensive study guide created from your lecture notes. I have transcribed the original Persian text exactly as it appears and provided thorough, expert-level elaborations to fill in the gaps left by the lack of verbal context.
+Here is a comprehensive study guide created from your lecture notes. The original Persian text has been transcribed exactly as it appears, with thorough, expert-level elaborations provided.
+
+> [!abstract] Navigation
+> **Chapter:** [[Chapter 9 - Dynamics of a System of Particles]] | **Prev:** [[Note Apr 25, 2026]] | **Next:** [[Note May 2, 2026]] | [[Journal/Lecture Index|📚 All Lectures]]
+>
+> **Key topic:** Scattering Cross-Sections -- see also [[Textbook Ch 9 - System of Particles|Textbook §9.9]]
 
 ---
 

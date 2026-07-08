@@ -1,5 +1,8 @@
 # Chapter 10: Motion in Non-Inertial Reference Frames (Continued) - Lecture: May 9, 2026
 
+> [!abstract] Navigation
+> **Chapter:** [[Chapter 10 - Non-Inertial Reference Frames]] | **Prev:** [[Note May 4, 2026]] | **Next:** [[Note May 11, 2026]] | [[Journal/Lecture Index|📚 All Lectures]]
+
 ## 1. Introduction and Outline (مقدمه و سرفصل‌ها)
 
 **Original Notes Transcription:**

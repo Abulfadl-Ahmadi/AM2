@@ -1,5 +1,8 @@
 # Chapter 11: Dynamics of Rigid Bodies (Continued) - Lecture: May 18, 2026
 
+> [!abstract] Navigation
+> **Chapter:** [[Chapter 11 - Dynamics of Rigid Bodies]] | **Prev:** [[Note May 16, 2026]] | **Next:** [[Note May 23, 2026]] | [[Journal/Lecture Index|📚 All Lectures]]
+
 ## 1. Review and Simple Pendulum Example (مرور و مثال آونگ ساده)
 
 **Original Notes Transcription:**

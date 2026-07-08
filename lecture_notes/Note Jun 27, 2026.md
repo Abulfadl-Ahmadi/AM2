@@ -1,5 +1,10 @@
 # Chapter 12: Coupled Oscillations and Normal Modes - Lecture: Jun 27, 2026
 
+> [!abstract] Navigation
+> **Chapter:** [[Chapter 12 - Coupled Oscillations and Normal Modes]] | **Prev:** [[Note Jun 20, 2026]] | **Next:** [[Note Jun 29, 2026]] | [[Journal/Lecture Index|📚 All Lectures]]
+>
+> **Key problem:** 3 coupled pendulums -- [[Eigenvalue Problem for Normal Modes|secular determinant]] $|A - \omega^2 m| = 0$
+
 ## 1. Linear Vibrations of Molecules (ارتعاشات خطی مولکول)
 
 **Original Notes Transcription:**

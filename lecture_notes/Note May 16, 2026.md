@@ -1,5 +1,8 @@
 # Chapter 11: Dynamics of Rigid Bodies (Continued) - Lecture: May 16, 2026
 
+> [!abstract] Navigation
+> **Chapter:** [[Chapter 11 - Dynamics of Rigid Bodies]] | **Prev:** [[Note May 11, 2026]] | **Next:** [[Note May 18, 2026]] | [[Journal/Lecture Index|📚 All Lectures]]
+
 ## 1. Rotational Kinetic Energy and the Inertia Tensor (انرژی جنبشی دورانی و تانسور لختی)
 
 **Original Notes Transcription:**

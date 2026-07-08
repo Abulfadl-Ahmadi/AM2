@@ -1,5 +1,10 @@
 # Chapter 9: Dynamics of a System of Particles
 
+> [!abstract] Navigation
+> **Chapter:** [[Chapter 9 - Dynamics of a System of Particles]] | **Next:** [[Note Apr 11, 2026]] | [[Journal/Lecture Index|📚 All Lectures]]
+> 
+> **Key concepts:** [[Lagrangian Mechanics|Lagrangian]], [[Chapter 8 - Central-Force Motion|Central Force]] prerequisite
+
 ## 1. Linear Momentum of a System
 
 **Original Notes Transcription:**
