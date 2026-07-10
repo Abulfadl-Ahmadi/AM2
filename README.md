@@ -65,9 +65,9 @@ An AI-powered study assistant for **Analytical Mechanics II (Spring 2026)**, tau
 - [[Exam-Solver Workflow]] -- The problem-solving protocol
 
 ### 📊 Tracking
-- [[Journal/Lecture Index|📅 Lecture Index]] -- All 23 lectures
-- [[Journal/Study Progress|📊 Study Tracker]] -- Mark your progress
-- [[Wiki/reconciliation-log|⚠️ Reconciliation Log]] -- Known gaps & issues
+- [[Lecture Index|📅 Lecture Index]] -- All 23 lectures
+- [[Study Progress|📊 Study Tracker]] -- Mark your progress
+- [[reconciliation-log|⚠️ Reconciliation Log]] -- Known gaps & issues
 
 ---
 
@@ -76,8 +76,8 @@ An AI-powered study assistant for **Analytical Mechanics II (Spring 2026)**, tau
 1. **Open in Obsidian:** Add this folder as a vault in [Obsidian](https://obsidian.md)
 2. **Start from [[Brain-Map]]:** It's the master table of contents
 3. **Use Graph View:** Press `Ctrl+G` to see the knowledge network
-4. **Follow the links:** Every note connects to related concepts via `[[wikilinks]]`
-5. **Ask the AI:** Use an agentic IDE with [[AGENTS.md]] context to get exam help
+4. **Follow the links:** Every note connects to related concepts via `wikilinks`
+5. **Ask the AI:** Use an agentic IDE with [[AGENTS]] context to get exam help
 
 ---
 

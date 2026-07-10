@@ -64,7 +64,7 @@ tags:
 ## 📊 Progress Tracking
 
 > [!tip] Study Status
-> Mark lectures as reviewed by checking the boxes in [[Journal/Study Progress]].
+> Mark lectures as reviewed by checking the boxes in [[Study Progress]].
 
 ---
 
