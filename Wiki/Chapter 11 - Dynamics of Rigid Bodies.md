@@ -56,12 +56,12 @@ Three angles $(\phi, \theta, \psi)$ that parameterize the orientation of a rigid
 
 ## 📅 Lecture Notes
 
-- [[May 11 - Rigid Body Dynamics]]
-- [[May 16 - Rigid Bodies Cont.]]
-- [[May 18 - Rigid Bodies Cont.]]
-- [[May 23 - Rigid Bodies Cont.]]
-- [[May 25 - Rigid Bodies Cont.]]
-- [[May 30 - Rigid Bodies Cont.]]
+- [[Note May 11, 2026|May 11]]
+- [[Note May 16, 2026|May 16]]
+- [[Note May 18, 2026|May 18]]
+- [[Note May 23, 2026|May 23]]
+- [[Note May 25, 2026|May 25]]
+- [[Note May 30, 2026|May 30]]
 
 ---
 

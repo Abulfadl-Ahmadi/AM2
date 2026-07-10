@@ -30,11 +30,11 @@ Instead of forces (Newton), we work with **generalized coordinates** $q_i$, **ki
 
 | Chapter | How Lagrangian Is Used |
 |---------|----------------------|
-| [[Chapter 8 - Central-Force Motion\|Ch. 8]] | Two-body -> one-body via $L = \frac{1}{2}\mu\dot{r}^2 - U(r)$ |
-| [[Chapter 9 - Dynamics of a System of Particles\|Ch. 9]] | Conservation laws from cyclic coordinates (Noether) |
-| [[Chapter 10 - Non-Inertial Reference Frames\|Ch. 10]] | Lagrangian in rotating frames yields fictitious forces naturally |
-| [[Chapter 11 - Dynamics of Rigid Bodies\|Ch. 11]] | Rotational kinetic energy from the inertia tensor |
-| [[Chapter 12 - Coupled Oscillations and Normal Modes\|Ch. 12]] | $T$ and $U$ matrices for small oscillations come directly from $L$ |
+| [[Chapter 8 - Central-Force Motion|Ch. 8]] | Two-body -> one-body via $L = \frac{1}{2}\mu\dot{r}^2 - U(r)$ |
+| [[Chapter 9 - Dynamics of a System of Particles|Ch. 9]] | Conservation laws from cyclic coordinates (Noether) |
+| [[Chapter 10 - Non-Inertial Reference Frames|Ch. 10]] | Lagrangian in rotating frames yields fictitious forces naturally |
+| [[Chapter 11 - Dynamics of Rigid Bodies|Ch. 11]] | Rotational kinetic energy from the inertia tensor |
+| [[Chapter 12 - Coupled Oscillations and Normal Modes|Ch. 12]] | $T$ and $U$ matrices for small oscillations come directly from $L$ |
 
 ---
 

@@ -33,17 +33,17 @@ Prof. Abolhasani's lectures form the primary knowledge source for this course. H
 
 ## 📚 Lectures in This Vault
 
-All 23 lecture notes in `lecture_notes/` are transcriptions of Prof. Abolhasani's classes, enriched with AI elaborations. See [[Journal/Lecture Index|Lecture Index]] for the full chronological list.
+All 23 lecture notes in `lecture_notes/` are transcriptions of Prof. Abolhasani's classes, enriched with AI elaborations. See [[Lecture Index]] for the full chronological list.
 
 ### Chapter Coverage
-- **Ch. 9 (System of Particles):** [[Apr 4 - Dynamics of Particles Intro]] through [[Apr 27 - Scattering Cross-Sections]]
-- **Ch. 10 (Non-Inertial Frames):** [[May 2 - Non-Inertial Frames]] through [[May 9 - Non-Inertial Frames Cont.]]
-- **Ch. 11 (Rigid Bodies):** [[May 11 - Rigid Body Dynamics]] through [[May 30 - Rigid Bodies Cont.]]
-- **Ch. 12 (Normal Modes):** [[Jun 1 - Coupled Oscillators]] through [[Jun 29 - Degeneracy & Loaded String]]
+- **Ch. 9 (System of Particles):** [[Note Apr 4, 2026|Apr 4]] through [[Note Apr 27, 2026|Apr 27]]
+- **Ch. 10 (Non-Inertial Frames):** [[Note May 2, 2026|May 2]] through [[Note May 9, 2026|May 9]]
+- **Ch. 11 (Rigid Bodies):** [[Note May 11, 2026|May 11]] through [[Note May 30, 2026|May 30]]
+- **Ch. 12 (Normal Modes):** [[Note Jun 1, 2026|Jun 1]] through [[Note Jun 29, 2026|Jun 29]]
 
 ---
 
 ## 🔗 Related
 
-- His methods are compared with the textbook in [[AGENTS.md|the agent's answering guidelines]]
+- His methods are compared with the textbook in [[AGENTS]]
 - [[Textbook Ch 8 - Central-Force Motion]] and [[Textbook Ch 9 - System of Particles]] serve as the textbook complement to his lectures

@@ -51,23 +51,23 @@ $$\ddot{q}_r + \omega_r^2\, q_r = 0$$
 
 | Problem | Lectures | Key Insight |
 |---------|----------|-------------|
-| **2 Coupled Pendulums** | [[Jun 1 - Coupled Oscillators]] | Symmetric & antisymmetric modes |
-| **Weak Coupling & Beats** | [[Jun 6 - Weak Coupling & Beats]] | Energy transfer between oscillators |
-| **3 Coupled Pendulums** | [[Jun 27 - 3 Coupled Pendulums]], [[Jun 29 - Degeneracy & Loaded String]] | Degeneracy handling |
-| **Loaded String** | [[Jun 29 - Degeneracy & Loaded String]] | $n$ masses on a string → wave equation limit |
-| **General Algorithm** | [[Jun 8 - Small Oscillations & Orthogonality]], [[Jun 13 - Mode Orthogonality & Normal Coords]], [[Jun 20 - Normal Coordinate Algorithm]] | The exam-ready procedure |
+| **2 Coupled Pendulums** | [[Note Jun 1, 2026|Jun 1]] | Symmetric & antisymmetric modes |
+| **Weak Coupling & Beats** | [[Note Jun 6, 2026|Jun 6]] | Energy transfer between oscillators |
+| **3 Coupled Pendulums** | [[Note Jun 27, 2026|Jun 27]], [[Note Jun 29, 2026|Jun 29]] | Degeneracy handling |
+| **Loaded String** | [[Note Jun 29, 2026|Jun 29]] | $n$ masses on a string → wave equation limit |
+| **General Algorithm** | [[Note Jun 8, 2026|Jun 8]], [[Note Jun 13, 2026|Jun 13]], [[Note Jun 20, 2026|Jun 20]] | The exam-ready procedure |
 
 ---
 
 ## 📅 Lecture Notes (Most Recent & Important)
 
-- [[Jun 1 - Coupled Oscillators]]
-- [[Jun 6 - Weak Coupling & Beats]]
-- [[Jun 8 - Small Oscillations & Orthogonality]]
-- [[Jun 13 - Mode Orthogonality & Normal Coords]]
-- [[Jun 20 - Normal Coordinate Algorithm]]
-- [[Jun 27 - 3 Coupled Pendulums]]
-- [[Jun 29 - Degeneracy & Loaded String]]
+- [[Note Jun 1, 2026|Jun 1]]
+- [[Note Jun 6, 2026|Jun 6]]
+- [[Note Jun 8, 2026|Jun 8]]
+- [[Note Jun 13, 2026|Jun 13]]
+- [[Note Jun 20, 2026|Jun 20]]
+- [[Note Jun 27, 2026|Jun 27]]
+- [[Note Jun 29, 2026|Jun 29]]
 
 ---
 

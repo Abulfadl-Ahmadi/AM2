@@ -35,7 +35,7 @@ For each $\omega_r$, solve:
 $$\sum_j (A_{jk} - \omega_r^2\, m_{jk})\, a_{jr} = 0$$
 
 ### Step 4: Handle Degeneracy (if any)
-If $\omega_r = \omega_s$ (degenerate), use **orthogonality** and **normalization** constraints. Make an arbitrary choice to fix the basis. See [[Jun 29 - Degeneracy & Loaded String]].
+If $\omega_r = \omega_s$ (degenerate), use **orthogonality** and **normalization** constraints. Make an arbitrary choice to fix the basis. See [[Note Jun 29, 2026|Jun 29]].
 
 ### Step 5: Normalize
 Ensure eigenvectors satisfy:
@@ -50,12 +50,12 @@ $$q_j(t) = \sum_r a_{jr}\, \eta_r(t), \qquad \ddot{\eta}_r + \omega_r^2\, \eta_r
 
 | Lecture | Focus |
 |---------|-------|
-| [[Jun 1 - Coupled Oscillators]] | Introduction with 2 pendulums |
-| [[Jun 8 - Small Oscillations & Orthogonality]] | Generalized formulation |
-| [[Jun 13 - Mode Orthogonality & Normal Coords]] | Orthogonality proof |
-| [[Jun 20 - Normal Coordinate Algorithm]] | The exam-ready checklist |
-| [[Jun 27 - 3 Coupled Pendulums]] | 3-body application |
-| [[Jun 29 - Degeneracy & Loaded String]] | Degeneracy + loaded string |
+| [[Note Jun 1, 2026|Jun 1]] | Introduction with 2 pendulums |
+| [[Note Jun 8, 2026|Jun 8]] | Generalized formulation |
+| [[Note Jun 13, 2026|Jun 13]] | Orthogonality proof |
+| [[Note Jun 20, 2026|Jun 20]] | The exam-ready checklist |
+| [[Note Jun 27, 2026|Jun 27]] | 3-body application |
+| [[Note Jun 29, 2026|Jun 29]] | Degeneracy + loaded string |
 
 ---
 

@@ -42,9 +42,9 @@ $$m\vec{a}_{rot} = \vec{F}_{real} - m\vec{\omega} \times (\vec{\omega} \times \v
 
 ## 📅 Lecture Notes
 
-- [[May 2 - Non-Inertial Frames]]
-- [[May 4 - Non-Inertial Frames Cont.]]
-- [[May 9 - Non-Inertial Frames Cont.]]
+- [[Note May 2, 2026|May 2]]
+- [[Note May 4, 2026|May 4]]
+- [[Note May 9, 2026|May 9]]
 
 ---
 

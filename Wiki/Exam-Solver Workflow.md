@@ -12,7 +12,7 @@ tags:
 # Exam-Solver Workflow
 
 > [!abstract] Purpose
-> The step-by-step protocol the AI agent follows to solve AM II exam problems flawlessly. Defined in [[AGENTS.md]] and refined through the lecture notes.
+> The step-by-step protocol the AI agent follows to solve AM II exam problems flawlessly. Defined in [[AGENTS]] and refined through the lecture notes.
 
 ---
 
@@ -48,5 +48,5 @@ Use proper Farsi mathematical terminology throughout.
 
 ## 🔗 Related
 
-- [[AGENTS.md]] -- The formal rulebook
+- [[AGENTS]] -- The formal rulebook
 - [[Prof. Ali Akbar Abolhasani]] -- Whose methods we follow

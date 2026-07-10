@@ -45,7 +45,7 @@ tags:
 
 ### 5. Scattering Cross Sections
 - Rutherford scattering, impact parameter, differential cross section
-- $d\sigma/d\Omega$ → [[Apr 27 - Scattering Cross-Sections]]
+- $d\sigma/d\Omega$ → [[Note Apr 27, 2026|Apr 27]]
 - **Textbook:** §9.9
 
 ### 6. Rocket Motion
@@ -58,21 +58,21 @@ tags:
 
 | Problem | Lectures | Key Insight |
 |---------|----------|-------------|
-| **Falling Rope** | [[Apr 11 - Falling Rope & Energy]] | Variable-mass; energy NOT conserved (inelastic bend) |
-| **Scattering** | [[Apr 25 - Scattering & Impulse]], [[Apr 27 - Scattering Cross-Sections]] | Lab vs. CM frame |
-| **Impulse & Sweet Spot** | [[Apr 25 - Scattering & Impulse]] | Center of percussion |
+| **Falling Rope** | [[Note Apr 11, 2026|Apr 11]] | Variable-mass; energy NOT conserved (inelastic bend) |
+| **Scattering** | [[Note Apr 25, 2026|Apr 25]], [[Note Apr 27, 2026|Apr 27]] | Lab vs. CM frame |
+| **Impulse & Sweet Spot** | [[Note Apr 25, 2026|Apr 25]] | Center of percussion |
 
 ---
 
 ## 📅 Lecture Notes
 
-- [[Apr 4 - Dynamics of Particles Intro]]
-- [[Apr 11 - Falling Rope & Energy]]
-- [[Apr 13 - System Dynamics Cont.]]
-- [[Apr 18 - CM & Angular Momentum]]
-- [[Apr 20 - System Dynamics Cont.]]
-- [[Apr 25 - Scattering & Impulse]]
-- [[Apr 27 - Scattering Cross-Sections]]
+- [[Note Apr 4, 2026|Apr 4]]
+- [[Note Apr 11, 2026|Apr 11]]
+- [[Note Apr 13, 2026|Apr 13]]
+- [[Note Apr 18, 2026|Apr 18]]
+- [[Note Apr 20, 2026|Apr 20]]
+- [[Note Apr 25, 2026|Apr 25]]
+- [[Note Apr 27, 2026|Apr 27]]
 
 ## 📖 Textbook
 

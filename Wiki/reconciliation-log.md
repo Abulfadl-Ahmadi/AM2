@@ -20,7 +20,7 @@ tags:
 
 ### 1. `.agents/workflows/exam-solver.md` File Found & Patched
 - **Status:** ✅ Resolved
-- **Details:** The file existed (previously missed by the initial scan). It has been patched: "midterm" → "final exam" and "academic English" → "academic Persian" (to match [[AGENTS.md]] language rule). The workflow logic is also synthesized in [[Exam-Solver Workflow]].
+- **Details:** The file existed (previously missed by the initial scan). It has been patched: "midterm" → "final exam" and "academic English" → "academic Persian" (to match [[AGENTS]] language rule). The workflow logic is also synthesized in [[Exam-Solver Workflow]].
 
 ### 2. Textbook Coverage for Chapters 10, 11, 12
 - **Status:** ✅ Resolved
@@ -47,7 +47,7 @@ tags:
 
 ### 6. Chapter 12 Notation Evolution
 - **Details:** The early Ch. 12 lectures (Jun 1-13) use slightly different notation than the later ones (Jun 20-29). The core algorithm is the same, but the matrix notation $\{m\}$ vs $\{A\}$ stabilizes in the later lectures.
-- **Action:** Use the [[Jun 20 - Normal Coordinate Algorithm|Jun 20 lecture]] as the canonical reference for the algorithm.
+- **Action:** Use the [[Note Jun 20, 2026|Jun 20 lecture]] as the canonical reference for the algorithm.
 
 ---
 
@@ -63,5 +63,5 @@ tags:
 
 ## 🔗 Related
 - [[Brain-Map]]
-- [[AGENTS.md]]
+- [[AGENTS]]
 - [[Exam-Solver Workflow]]
