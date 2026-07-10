@@ -1,3 +1,6 @@
+> [!abstract] Vault Links
+> **Concept Hub:** [[Chapter 9 - Dynamics of a System of Particles]] | **Textbook Index:** [[Textbook Ch 9 - System of Particles]] | [[Brain-Map|🧠 Brain Map]]
+
 Here is the exact content of the "PROBLEMS" section (Chapter 9) transcribed from the provided pages.
 
 ***
@@ -11,6 +14,10 @@ If we insert the numbers from the last example, we find the same answer for the 
 The speed at burnout can be determined directly from Equation 9.165.
 
 \[ \begin{aligned} v_{bo} &= -gT + u \ln \left( \frac{m_0}{m_f} \right) \\ &= -\frac{g(m_0 - m_f)}{\alpha} + u \ln \left( \frac{m_0}{m_f} \right) \end{aligned} \tag{9.168} \]
+
+> [!abstract] Vault Links
+> **Concept Hub:** [[Chapter 9 - Dynamics of a System of Particles]] | **Textbook Index:** [[Textbook Ch 9 - System of Particles]] | [[Brain-Map|🧠 Brain Map]]
+
 
 # PROBLEMS
 
