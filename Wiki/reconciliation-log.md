@@ -22,11 +22,9 @@ tags:
 - **Status:** ✅ Resolved
 - **Details:** The file existed (previously missed by the initial scan). It has been patched: "midterm" → "final exam" and "academic English" → "academic Persian" (to match [[AGENTS.md]] language rule). The workflow logic is also synthesized in [[Exam-Solver Workflow]].
 
-### 2. No Textbook Coverage for Chapters 10, 11, 12
-- **Status:** ℹ️ Gap
-- **Details:** The `textbook/` directory only contains Chapter 8 (`8.md`) and Chapter 9 sections (`9-1.md` through `9-problems.md`). There is no textbook material for [[Chapter 10 - Non-Inertial Reference Frames|Ch. 10]], [[Chapter 11 - Dynamics of Rigid Bodies|Ch. 11]], or [[Chapter 12 - Coupled Oscillations and Normal Modes|Ch. 12]].
-- **Impact:** Students must rely solely on lecture notes for these chapters.
-- **Action:** Consider adding textbook chapters if available.
+### 2. Textbook Coverage for Chapters 10, 11, 12
+- **Status:** ✅ Resolved
+- **Details:** Textbook files have been added: `textbook/10.1.md` - `10.4.md`, `textbook/11-1.md` - `11-problems.md`, and `textbook/12-1.md` - `12-problems.md`. Wiki indices created for each chapter.
 
 ### 3. Lecture Notes Formatting Inconsistency
 - **Status:** ℹ️ Minor

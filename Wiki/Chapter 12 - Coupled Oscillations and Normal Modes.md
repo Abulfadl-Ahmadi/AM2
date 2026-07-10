@@ -76,3 +76,7 @@ $$\ddot{q}_r + \omega_r^2\, q_r = 0$$
 - [[Eigenvalue Problem for Normal Modes]] — The mathematical method
 - [[Chapter 11 - Dynamics of Rigid Bodies]] — Inertia tensor uses similar diagonalization
 - [[Lagrangian Mechanics]] — Foundation: $T$ and $U$ come from the Lagrangian
+
+## 📖 Textbook Reference
+
+- [[Textbook Ch 12 - Coupled Oscillations and Normal Modes]] (`textbook/12-1.md` - `textbook/12-problems.md`)

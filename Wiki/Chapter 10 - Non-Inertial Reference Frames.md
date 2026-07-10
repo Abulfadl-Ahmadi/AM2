@@ -52,3 +52,7 @@ $$m\vec{a}_{rot} = \vec{F}_{real} - m\vec{\omega} \times (\vec{\omega} \times \v
 
 - [[Chapter 11 - Dynamics of Rigid Bodies]] — Rotational dynamics extended
 - [[Lagrangian Mechanics]] — Lagrangian formulation in non-inertial frames
+
+## 📖 Textbook Reference
+
+- [[Textbook Ch 10 - Non-Inertial Reference Frames]] (`textbook/10.1.md` - `textbook/10.4.md`)

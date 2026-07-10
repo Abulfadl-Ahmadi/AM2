@@ -70,3 +70,7 @@ Three angles $(\phi, \theta, \psi)$ that parameterize the orientation of a rigid
 - [[Chapter 10 - Non-Inertial Reference Frames]] — Prerequisite (rotating frames)
 - [[Chapter 12 - Coupled Oscillations and Normal Modes]] — Small oscillations around equilibrium
 - [[Lagrangian Mechanics]] — $L = T - V$ with rotational kinetic energy
+
+## 📖 Textbook Reference
+
+- [[Textbook Ch 11 - Dynamics of Rigid Bodies]] (`textbook/11-1.md` - `textbook/11-problems.md`)
