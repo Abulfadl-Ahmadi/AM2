@@ -1,7 +1,7 @@
 ## Chapter 12 Problems
 
 > [!abstract] Vault Links
-> **Concept Hub:** [[Chapter 12 - Coupled Oscillations]] | **Textbook Index:** [[Textbook Ch 12 - Coupled Oscillations]] | [[Brain-Map|🧠 Brain Map]]
+> **Concept Hub:** [[Chapter 12 - Coupled Oscillations and Normal Modes]] | **Textbook Index:** [[Textbook Ch 12 - Coupled Oscillations and Normal Modes]] | [[Brain-Map|🧠 Brain Map]]
 
 ### Original Transcribed Notes
 
