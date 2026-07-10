@@ -1,7 +1,7 @@
 # Advanced Analytical Dynamics: Generalized Small Oscillations & Orthogonality
 
 > [!abstract] Navigation
-> **Chapter:** [[Chapter 12 - Coupled Oscillations and Normal Modes]] | **Prev:** [[Note Jun 6, 2026]] | **Next:** [[Note Jun 13, 2026]] | [[Journal/Lecture Index|📚 All Lectures]]
+> **Chapter:** [[Chapter 12 - Coupled Oscillations and Normal Modes]] | **Prev:** [[Note Jun 6, 2026]] | **Next:** [[Note Jun 13, 2026]] | [[Lecture Index|📚 All Lectures]]
 >
 > **Key concept:** [[Eigenvalue Problem for Normal Modes|Orthogonality of normal modes]]
 

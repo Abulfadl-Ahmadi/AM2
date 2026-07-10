@@ -1,7 +1,7 @@
 Here is the comprehensive continuation of your study guide, covering the provided Pages 7 through 11. This note covers **Kinematics of Two-Body Scattering** and **Impulse & Rotational Dynamics (Sweet Spot)**, concluding with a transition back to the formal definition of scattering cross-sections.
 
 > [!abstract] Navigation
-> **Chapter:** [[Chapter 9 - Dynamics of a System of Particles]] | **Prev:** [[Note Apr 20, 2026]] | **Next:** [[Note Apr 27, 2026]] | [[Journal/Lecture Index|📚 All Lectures]]
+> **Chapter:** [[Chapter 9 - Dynamics of a System of Particles]] | **Prev:** [[Note Apr 20, 2026]] | **Next:** [[Note Apr 27, 2026]] | [[Lecture Index|📚 All Lectures]]
 >
 > **Key topics:** [[Reduced Mass Method|Reduced Mass]] in scattering, Impulse, Center of percussion (sweet spot)
 

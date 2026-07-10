@@ -1,7 +1,7 @@
 # Chapter 10: Motion in Non-Inertial Reference Frames (Continued) - Lecture: May 4, 2026
 
 > [!abstract] Navigation
-> **Chapter:** [[Chapter 10 - Non-Inertial Reference Frames]] | **Prev:** [[Note May 2, 2026]] | **Next:** [[Note May 9, 2026]] | [[Journal/Lecture Index|📚 All Lectures]]
+> **Chapter:** [[Chapter 10 - Non-Inertial Reference Frames]] | **Prev:** [[Note May 2, 2026]] | **Next:** [[Note May 9, 2026]] | [[Lecture Index|📚 All Lectures]]
 
 ## 1. Application: Particle on a Rotating Rail (بررسی حرکت ذره روی ریل دوار)
 

@@ -1,7 +1,7 @@
 # Chapter 11: Dynamics of Rigid Bodies (Continued) - Lecture: May 25, 2026
 
 > [!abstract] Navigation
-> **Chapter:** [[Chapter 11 - Dynamics of Rigid Bodies]] | **Prev:** [[Note May 23, 2026]] | **Next:** [[Note May 30, 2026]] | [[Journal/Lecture Index|📚 All Lectures]]
+> **Chapter:** [[Chapter 11 - Dynamics of Rigid Bodies]] | **Prev:** [[Note May 23, 2026]] | **Next:** [[Note May 30, 2026]] | [[Lecture Index|📚 All Lectures]]
 
 ## 1. Free Top and Euler Equations (فرفره آزاد و معادلات اویلر)
 

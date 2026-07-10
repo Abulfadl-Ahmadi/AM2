@@ -1,7 +1,7 @@
 # Advanced Dynamics: Weak Coupling, Beats & Small Oscillations
 
 > [!abstract] Navigation
-> **Chapter:** [[Chapter 12 - Coupled Oscillations and Normal Modes]] | **Prev:** [[Note Jun 1, 2026]] | **Next:** [[Note Jun 8, 2026]] | [[Journal/Lecture Index|📚 All Lectures]]
+> **Chapter:** [[Chapter 12 - Coupled Oscillations and Normal Modes]] | **Prev:** [[Note Jun 1, 2026]] | **Next:** [[Note Jun 8, 2026]] | [[Lecture Index|📚 All Lectures]]
 
 > **Exam Note:** These notes build upon the standard coupled oscillator solution. They introduce two crucial advanced concepts: 1) **Weak coupling and Beats** (the physical transfer of energy between two weakly connected oscillators), and 2) **Generalized small oscillation theory** using the Lagrangian approach, which works for any multi-particle system.
 

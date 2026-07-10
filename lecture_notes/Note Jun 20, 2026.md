@@ -1,7 +1,7 @@
 # Advanced Dynamics: The Normal Coordinate "Mission Unlocked" & Exam Algorithm
 
 > [!abstract] Navigation
-> **Chapter:** [[Chapter 12 - Coupled Oscillations and Normal Modes]] | **Prev:** [[Note Jun 13, 2026]] | **Next:** [[Note Jun 27, 2026]] | [[Journal/Lecture Index|📚 All Lectures]]
+> **Chapter:** [[Chapter 12 - Coupled Oscillations and Normal Modes]] | **Prev:** [[Note Jun 13, 2026]] | **Next:** [[Note Jun 27, 2026]] | [[Lecture Index|📚 All Lectures]]
 >
 > ⭐ **Canonical reference for the [[Eigenvalue Problem for Normal Modes|Normal Mode Algorithm]]** -- use this as your exam checklist!
 

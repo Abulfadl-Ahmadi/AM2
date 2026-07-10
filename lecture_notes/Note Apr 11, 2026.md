@@ -1,7 +1,7 @@
 # Chapter 9: Dynamics of a System of Particles (Continued)
 
 > [!abstract] Navigation
-> **Chapter:** [[Chapter 9 - Dynamics of a System of Particles]] | **Prev:** [[Note Apr 4, 2026]] | **Next:** [[Note Apr 13, 2026]] | [[Journal/Lecture Index|📚 All Lectures]]
+> **Chapter:** [[Chapter 9 - Dynamics of a System of Particles]] | **Prev:** [[Note Apr 4, 2026]] | **Next:** [[Note Apr 13, 2026]] | [[Lecture Index|📚 All Lectures]]
 > 
 > **Key topic:** Falling Rope problem (variable-mass system)
 

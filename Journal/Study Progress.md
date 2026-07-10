@@ -63,5 +63,5 @@ tags:
 ---
 
 ## 🔗 Related
-- [[Journal/Lecture Index|Lecture Index]]
+- [[Lecture Index|Lecture Index]]
 - [[Brain-Map]]

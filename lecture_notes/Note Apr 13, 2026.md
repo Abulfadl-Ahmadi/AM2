@@ -1,7 +1,7 @@
 # Chapter 9: Dynamics of a System of Particles (Continued)
 
 > [!abstract] Navigation
-> **Chapter:** [[Chapter 9 - Dynamics of a System of Particles]] | **Prev:** [[Note Apr 11, 2026]] | **Next:** [[Note Apr 18, 2026]] | [[Journal/Lecture Index|📚 All Lectures]]
+> **Chapter:** [[Chapter 9 - Dynamics of a System of Particles]] | **Prev:** [[Note Apr 11, 2026]] | **Next:** [[Note Apr 18, 2026]] | [[Lecture Index|📚 All Lectures]]
 
 ## 1. Introduction & Overview
 

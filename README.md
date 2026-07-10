@@ -26,7 +26,7 @@ cssclasses:
 
 ## 🎯 What Is This?
 
-An AI-powered study assistant for **Analytical Mechanics II (Spring 2026)**, taught by [[Prof. Ali Akbar Abolhasani]]. The AI agent is constrained by [[AGENTS.md|strict rules]] to deliver exam-quality answers based **only** on the course materials in this vault.
+An AI-powered study assistant for **Analytical Mechanics II (Spring 2026)**, taught by [[Prof. Ali Akbar Abolhasani]]. The AI agent is constrained by [[AGENTS|strict rules]] to deliver exam-quality answers based **only** on the course materials in this vault.
 
 ### ✨ Key Features
 - **📚 Source Prioritization:** Answers come from `lecture_notes/` and `textbook/` only

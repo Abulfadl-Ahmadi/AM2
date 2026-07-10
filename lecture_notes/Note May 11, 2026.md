@@ -1,7 +1,7 @@
 # Chapter 11: Dynamics of Rigid Bodies - Lecture: May 11, 2026
 
 > [!abstract] Navigation
-> **Chapter:** [[Chapter 11 - Dynamics of Rigid Bodies]] | **Prev:** [[Note May 9, 2026]] | **Next:** [[Note May 16, 2026]] | [[Journal/Lecture Index|📚 All Lectures]]
+> **Chapter:** [[Chapter 11 - Dynamics of Rigid Bodies]] | **Prev:** [[Note May 9, 2026]] | **Next:** [[Note May 16, 2026]] | [[Lecture Index|📚 All Lectures]]
 >
 > **Key concepts:** Inertia tensor, principal axes -- builds on [[Chapter 10 - Non-Inertial Reference Frames|Ch. 10 rotating frames]]
 

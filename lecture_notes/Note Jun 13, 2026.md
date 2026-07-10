@@ -1,7 +1,7 @@
 # Advanced Dynamics: Mode Orthogonality & Normal Coordinates
 
 > [!abstract] Navigation
-> **Chapter:** [[Chapter 12 - Coupled Oscillations and Normal Modes]] | **Prev:** [[Note Jun 8, 2026]] | **Next:** [[Note Jun 20, 2026]] | [[Journal/Lecture Index|📚 All Lectures]]
+> **Chapter:** [[Chapter 12 - Coupled Oscillations and Normal Modes]] | **Prev:** [[Note Jun 8, 2026]] | **Next:** [[Note Jun 20, 2026]] | [[Lecture Index|📚 All Lectures]]
 
 > **Context:** In this final lecture on small oscillations, we move beyond simply calculating frequencies. We formalize the rigorous mathematical properties of the normal modes. Specifically, we prove that the **Normal Modes are Orthogonal**, and we use this property to define **Normal Coordinates** (\(\eta_r\)). Once you shift to these normal coordinates, the original system of \(n\) coupled differential equations completely decouples into \(n\) independent simple harmonic oscillators. This is the ultimate goal of this chapter.
 

@@ -1,7 +1,7 @@
 # Coupled Harmonic Oscillators: A Comprehensive Study Guide
 
 > [!abstract] Navigation
-> **Chapter:** [[Chapter 12 - Coupled Oscillations and Normal Modes]] | **Prev:** [[Note May 30, 2026]] | **Next:** [[Note Jun 6, 2026]] | [[Journal/Lecture Index|📚 All Lectures]]
+> **Chapter:** [[Chapter 12 - Coupled Oscillations and Normal Modes]] | **Prev:** [[Note May 30, 2026]] | **Next:** [[Note Jun 6, 2026]] | [[Lecture Index|📚 All Lectures]]
 >
 > **Key concepts:** [[Eigenvalue Problem for Normal Modes|Eigenvalue Problem]], [[Lagrangian Mechanics|Lagrangian]] $T$ and $U$ matrices
 **Topic:** Two identical masses \(M\) connected by three springs (two outer springs with stiffness \(k\), one middle spring with stiffness \(k_{12}\)). Frictionless horizontal surface.

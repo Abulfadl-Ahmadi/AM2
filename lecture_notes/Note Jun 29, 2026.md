@@ -1,7 +1,7 @@
 # Chapter 12: Coupled Oscillations and Normal Modes (Continued) - Lecture: Jun 29, 2026
 
 > [!abstract] Navigation
-> **Chapter:** [[Chapter 12 - Coupled Oscillations and Normal Modes]] | **Prev:** [[Note Jun 27, 2026]] | [[Journal/Lecture Index|📚 All Lectures]]
+> **Chapter:** [[Chapter 12 - Coupled Oscillations and Normal Modes]] | **Prev:** [[Note Jun 27, 2026]] | [[Lecture Index|📚 All Lectures]]
 >
 > **Key topics:** [[Eigenvalue Problem for Normal Modes|Degeneracy handling]], loaded string vibrations
 
